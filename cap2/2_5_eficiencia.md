@@ -1,6 +1,6 @@
 # 🗂️ Ruta B | Eficiencia operativa
 
-Objetivo de la sesión: Al terminar, la clínica del doctor va a funcionar mejor incluso cuando él no esté ahí.
+**Objetivo de la sesión:** Al terminar, la clínica del doctor va a funcionar mejor incluso cuando él no esté ahí.
 
 ## 1. Ejercicio de reflexión 
 

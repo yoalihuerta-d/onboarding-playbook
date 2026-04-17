@@ -1,6 +1,6 @@
 # 👥 Ruta A | Más pacientes
 
-Objetivo de la sesión: Al terminar, el perfil del doctor va a captar pacientes incluso cuando no esté en su consultorio.
+**Objetivo de la sesión:** Al terminar, el perfil del doctor va a captar pacientes incluso cuando no esté en su consultorio.
 
 ## 1. Ejercicio de reflexión 
 

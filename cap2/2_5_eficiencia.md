@@ -54,6 +54,24 @@ Si tú no lo presentas como algo valioso, el doctor tampoco lo verá así.
 :::
 
 ---
+### 👩‍💼 Usuario de asistente
+
+| Situación | Qué hacer |
+|----------|----------|
+| Tiene asistente y no le ha dado acceso | Crea el usuario de asistente en vivo con los datos que el doctor te dé. |
+| Ya tiene acceso configurado | Valida permisos y que la asistente esté usando la plataforma activamente. |
+| No tiene asistente | Menciónalo como un beneficio adicional que está disponible cuando lo requiera. |
+
+> Doctor, si su asistente es quien contesta llamadas, agenda citas y organiza su día, necesita tener acceso a Doctoralia. Si no, usted termina siendo el intermediario de todo y eso es justo lo que queremos eliminar. Vamos a crearle su usuario para que él/ella gestione la agenda directo, sin depender de usted.
+
+**Tips:**
+* Consulta en las respuestas de Wizard (prework) si declaró que tenía asistente.
+* Si no contestó Wizard, pregunta primero: "¿Tiene asistente o secretaria que le ayude con la agenda?"
+
+✅ Usuario de asistente creado con permisos correctos (si aplica).
+
+
+---
 
 ### 📱 App de Doctoralia
 
@@ -78,6 +96,23 @@ Si tú no lo presentas como algo valioso, el doctor tampoco lo verá así.
 > Subir sus pacientes es básicamente traer a todos sus pacientes actuales a la plataforma. Así no empieza desde cero: desde hoy puede contactarlos, pedirles opiniones y tener toda su información organizada en un solo lugar.
 
 ✅ Base de pacientes cargada (o deadline acordado).
+
+---
+### 📅 Admin Booking
+
+| Situación | Qué hacer |
+|----------|----------|
+| No lo usa / no sabe cómo | Crea una cita manual de ejemplo en vivo dentro de la agenda. |
+| Ya lo usa | Valida que esté registrando todas sus citas (no solo las de Doctoralia) y que el flujo sea claro. |
+
+> Doctor, las citas que le llegan por teléfono o presencialmente también deben vivir en su agenda de Doctoralia. Si solo registra las que llegan por la plataforma, está viendo la mitad de su operación. Vamos a crear una cita manual para que vea lo fácil que es. Así tiene todo en un solo lugar y nunca se le cruzan horarios.
+
+**Tips:**
+* Enfatiza que no es doble trabajo: es reemplazar la libreta o el Google calendar por algo centralizado.
+* Si tiene asistente, conecta con la feature de Usuario de asistente: "Y si su asistente es quien toma estas citas, en un momento le damos acceso para que ella las registre directo."
+
+✅ Sabe crear citas manuales en la agenda.
+
 
 ---
 
@@ -120,7 +155,24 @@ Si tú no lo presentas como algo valioso, el doctor tampoco lo verá así.
 
 ---
 
-### 📋 EHR (Expediente Clínico Electrónico) (Plan PLUS y VIP)
+### 💻 Consulta en línea
+
+| Situación | Qué hacer |
+|----------|----------|
+| No activada | Activa la videoconsulta en vivo y muestra cómo se ve el flujo completo (agendar → link → videollamada → chat). |
+| Ya activada | Valida que el doctor haya hecho al menos una y que entienda el flujo del paciente. |
+
+> Doctor, hay pacientes que no pueden ir a su consultorio: viven lejos, tienen movilidad limitada o simplemente prefieren una consulta rápida desde casa. Con la consulta en línea, usted atiende desde cualquier dispositivo, sin instalar nada. El paciente recibe el link por email, se conectan, y si necesita enviarle estudios o documentos, lo hace por el chat integrado. Todo queda guardado en el historial del paciente de forma segura.
+
+**¿Con qué especialidades priorizar esta feature?**
+Psicología, Psiquiatría, Nutrición, Endocrinología - Son consultas mayormente conversacionales, de seguimiento frecuente y no requieren exploración física.
+
+✅ Consulta en línea activada y doctor entiende el flujo completo.
+
+
+---
+
+### 📋 EHR (Plan PLUS y VIP)
 
 | Situación | Qué hacer |
 |----------|----------|
@@ -167,6 +219,24 @@ Si tú no lo presentas como algo valioso, el doctor tampoco lo verá así.
 > Cuando los mensajes automáticos salen desde su número profesional, el paciente siente que habla con su consultorio, no con un robot desconocido. Eso genera confianza.
 
 ✅ Número identificado y vinculación verificada.
+
+
+---
+### 📍 Google Business Profile
+
+| Situación | Qué hacer |
+|----------|----------|
+| No vinculado | Inicia la vinculación en vivo. Si el doctor no tiene perfil de Google Business, explica cómo crearlo. |
+| Ya vinculado | Valida que el botón de reservar esté activo y funcionando. |
+
+> Doctor, cuando un paciente busca en Google su nombre, su perfil de Google aparece. Si lo vinculamos con Doctoralia, ese paciente puede agendar directo desde ahí. Para usted esto significa que las citas llegan solas a su agenda sin que tenga que hacer nada: el paciente busca, encuentra, agenda y a usted le aparece la cita confirmada. Es un canal más que trabaja en automático.
+
+**Tip:**
+* El enfoque es eficiencia, no visibilidad: el valor es que las citas entran solas a la agenda sin intervención manual.
+
+✅ Proceso de creación de Google Business Profile iniciado.
+
+
 
 
 :::{note} 💡 ¿Terminaste estas configuraciones? ¿Qué sigue?

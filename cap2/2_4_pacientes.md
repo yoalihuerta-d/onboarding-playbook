@@ -114,6 +114,19 @@ Fórmula rápida:
 ✅ Mínimo 2 elementos cargados.
 
 ---
+### 🔍 Especialidades
+
+| Situación | Qué hacer |
+|----------|----------|
+| No declaradas o incompletas | Revisa junto con el doctor qué especialidades y subespecialidades ejerce y agrégalas en vivo. |
+| Ya declaradas | Valida que estén completas y que coincidan con los servicios que ofrece. |
+
+> Doctor, si un paciente busca 'dermatólogo pediatra' y usted no tiene esa subespecialidad declarada en su perfil, simplemente no aparece en los resultados. Vamos a asegurarnos de que aparezca en todas las búsquedas que le corresponden.
+
+✅ Todas las especialidades y subespecialidades declaradas correctamente.
+
+
+---
 
 ### 🩺 Enfermedades que trata
 
@@ -151,6 +164,19 @@ Fórmula rápida:
 > Si la dirección está mal, el paciente se pierde camino al consultorio y no regresa. Vamos a verificar que todo esté bien puesto.
 
 ✅ Ubicación validada o consulta en línea activa.
+
+---
+
+### 🏥 Aseguradoras
+
+| Situación | Qué hacer |
+|----------|----------|
+| No tiene aseguradoras cargadas | Pregunta qué aseguradoras acepta y agrégalas en vivo. |
+| Ya las tiene | Valida que la lista esté actualizada y completa. |
+
+> Muchos pacientes filtran su búsqueda por aseguradora. Si usted acepta GNP, Metlife o AXA pero no lo tiene en su perfil, ese paciente lo descarta sin siquiera verlo. Vamos a agregar todas las que acepte para que no pierda esas oportunidades.
+
+✅ Todas las aseguradoras aceptadas cargadas en el perfil.
 
 ---
 

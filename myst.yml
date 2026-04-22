@@ -27,7 +27,18 @@ project:
       - file: cap2/2_5_eficiencia.md
       - file: cap2/2_6_cierre.md
 
-  
+    - title: Segunda Sesión
+      children: 
+      - file: sesion2/3_1_prework.md
+      - file: sesion2/3_2_bienvenida.md
+      - file: sesion2/3_3_pacientes.md
+      - file: sesion2/3_4_eficiencia.md
+      - file: sesion2/3_5_valor.md
+      - file: sesion2/3_6_cierre.md
+
+    - title: Anexos
+      children: 
+      - file: anexos/anexos.md
   
 
   options:

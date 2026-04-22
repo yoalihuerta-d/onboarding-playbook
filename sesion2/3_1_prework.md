@@ -1,4 +1,4 @@
-# Prework
+# 🕵️‍♀️ Prework
 ⏱ **5-10 min de preparación**
 
 **Objetivo:** Llegar a la sesión con datos reales sobre el avance del doctor y con argumentos estratégicos para las features que vas a priorizar hoy.

@@ -12,8 +12,9 @@ Preséntate: nombre, rol y cómo lo vas a ayudar (no solo quién eres, sino qué
 
 > "¡Hola Doctor [nombre]! Soy [tu nombre], del equipo de Customer Success de Doctoralia. Yo voy a ser quien lo acompañe en estas primeras semanas para que saque el mayor provecho de la plataforma.
 
-:::{figure} ../assets/bienvenida.png
+**Tu apoyo visual durante la sesión 👇**
+
+:::{figure} ../assets/welcome.png
 :align: center
 
-Slide 1
 :::

@@ -18,6 +18,15 @@
 
 > Exacto. La diferencia no es quién es mejor médico, sino quién se ve más confiable a primera vista. Hoy vamos a hacer que su perfil se vea así de atractivo para que los pacientes lo elijan a usted antes de ver a nadie más.
 
+
+**Tu apoyo visual durante la sesión 👇**
+
+:::{figure} ../assets/pacientes.png
+:align: center
+
+:::
+
+
 ## 2. Agenda de la sesión 
 
 ⏱ ~2 min
@@ -35,6 +44,13 @@
 > 3. Que lo encuentren fácil tanto en Doctoralia como en Google.
 > 
 > Al terminar, su perfil va a estar captando pacientes incluso cuando usted no esté en el consultorio.
+
+**Tu apoyo visual durante la sesión 👇**
+
+:::{figure} ../assets/agendap.png
+:align: center
+
+:::
 
 ## 3. Alineación de expectativas 
 

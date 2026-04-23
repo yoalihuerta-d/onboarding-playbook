@@ -16,12 +16,16 @@
 Si el doctor quiere todo a la vez, ayúdalo a priorizar: "¿Cuál es el problema que le causa más preocupación el día de hoy?"
 :::
 
-👇 **Ahora ve directo a la ruta de tu doctor.**
 
-:::{figure} ../assets/bienvenida.png
+
+**Tu apoyo visual durante la sesión 👇**
+
+:::{figure} ../assets/welcome.png
 :align: center
 
-Slide 1
 :::
 
 
+:::{attention} ¿Qué ruta vas a seguir?
+Ve directo a la ruta de tu doctor.
+:::

@@ -16,7 +16,7 @@
 
 - ✅ Celebra el resultado como evidencia de que lo configurado ya funciona.
 - ✅ Usa el número de citas como palanca para generar ambición.
-- ✅ Redirige la sesión hacia **escalar resultados**:
+- ✅ Redirige la sesión hacia **escalar resultados**.
   - Más visibilidad (fotos, insignia, redes).
   - Más canales de captación (WhatsApp, redes sociales).
   - Mejor uso de herramientas para eficiencia.

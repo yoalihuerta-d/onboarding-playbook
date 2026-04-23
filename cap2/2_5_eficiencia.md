@@ -15,6 +15,13 @@
 > 
 > Hoy vamos a configurar todo para que su día se parezca más al lado derecho.
 
+**Tu apoyo visual durante la sesión 👇**
+
+:::{figure} ../assets/eficiencia.png
+:align: center
+
+:::
+
 ## 2. Agenda de la sesión 
 
 ⏱ ~2 min
@@ -31,6 +38,15 @@
 > - Dejar listas las herramientas de IA — para que las notas se escriban solas y las llamadas no se pierdan.
 > 
 > Al terminar, su clínica va a funcionar mejor incluso cuando usted no esté ahí.
+
+
+**Tu apoyo visual durante la sesión 👇**
+
+:::{figure} ../assets/agendae.png
+:align: center
+
+:::
+
 
 ## 3. Configuración 
 

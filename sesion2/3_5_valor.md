@@ -1,9 +1,13 @@
 # ✨ Oportunidades para generar más valor
 
-## 😰 Antes de empezar: quitémonos el miedo
+## 🧠 Cambio de mentalidad
 
-Si al escuchar "upselling" o “cross-selling” sientes que te conviertes en vendedor de tiempo completo, respira. Esto no es vender.
-**Es hacer tu trabajo completo.**
+Recuerda que uno de nuestros pilares de Onboarding es: *Detectar señales de necesidades adicionales para generar más valor al cliente.* 
+
+- **No vendes productos, evolucionas clientes.** El doctor avanza de etapa cuando está listo. Tu trabajo es leer cuándo.
+- **Vendes porque tienes contexto.** Nadie en Doctoralia conoce mejor el uso real, las fricciones y las metas de ese doctor que tú en ese momento. Eso te da más **autoridad** que cualquier equipo comercial.
+- **No es "¿quieres pagar más?"**, es "detecté algo que te ayudaría a lograr X más rápido".
+
 
 
 :::{important} Regla de oro
@@ -12,9 +16,9 @@ Si detectas que algo le resuelve un problema real al doctor y no se lo dices, no
 
 --- 
 
-## 🕐 ¿Por qué Sesión 2 es EL momento?
+## 🕐 ¿Por qué Sesión 2 es el mejor momento?
 
-Piénsalo así: en Sesión 1 eres un desconocido para el doctor. En Sesión 2 ya eres alguien de confianza que vuelve con contexto.
+En Sesión 1 eres un desconocido para el doctor. En Sesión 2 ya eres alguien de confianza que vuelve con contexto.
 
 | **Sesión 1** | **Sesión 2 ✅** |
 | :--- | :--- |
@@ -27,14 +31,6 @@ Piénsalo así: en Sesión 1 eres un desconocido para el doctor. En Sesión 2 ya
 :::{note} En resumen
 En Sesión 2 tienes el permiso social y el contexto necesario para hablar de valor adicional sin que suene a pitch de venta.
 :::
-
----
-
-## 🧠 Cambio de mentalidad
-
-- **No vendes productos, evolucionas clientes.** El doctor avanza de etapa cuando está listo. Tu trabajo es leer cuándo.
-- **Vendes porque tienes contexto.** Nadie en Doctoralia conoce mejor el uso real, las fricciones y las metas de ese doctor que tú en ese momento. Eso te da más **autoridad** que cualquier equipo comercial.
-- **No es "¿quieres pagar más?"**, es "detecté algo que te ayudaría a lograr X más rápido".
 
 ---
 

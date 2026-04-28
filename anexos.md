@@ -3,7 +3,7 @@
 
 ## 1️⃣ Primera sesión
 
-* Presentación de primera sesión [ONB 1](https://docs.google.com/presentation/d/1rqHbxLom0gLYUBOPzKhn3a0Rs6_eJIgt4ds4qZsxhUU/edit?usp=sharing)
+* Presentación de primera sesión [ONB 1](https://docs.google.com/presentation/d/14sPorMGjs4yKX0ED1pcl3_wCEZJhXyR6xP7cTiPac8Q/edit?usp=sharing)
 
 * CSAT Primera sesión [CSAT 1](https://forms.gle/ygt2jz7MBnbcLocJ8)
 

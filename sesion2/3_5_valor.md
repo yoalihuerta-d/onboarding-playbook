@@ -10,15 +10,11 @@ Recuerda que uno de nuestros pilares de Onboarding es: *Detectar señales de nec
 
 
 
-:::{important} Regla de oro
-Si detectas que algo le resuelve un problema real al doctor y no se lo dices, no lo estás "protegiendo" de una venta. **Lo estás dejando atorado.**
-:::
-
 --- 
 
 ## 🕐 ¿Por qué Sesión 2 es el mejor momento?
 
-En Sesión 1 eres un desconocido para el doctor. En Sesión 2 ya eres alguien de confianza que vuelve con contexto.
+En la primera sesión, el doctor aún no te conoce. En Sesión 2 ya eres alguien de confianza que vuelve con contexto.
 
 | **Sesión 1** | **Sesión 2 ✅** |
 | :--- | :--- |
@@ -29,14 +25,14 @@ En Sesión 1 eres un desconocido para el doctor. En Sesión 2 ya eres alguien de
 
 
 :::{note} En resumen
-En Sesión 2 tienes el permiso social y el contexto necesario para hablar de valor adicional sin que suene a pitch de venta.
+En Sesión 2 tienes el contexto necesario para hablar de valor adicional sin que suene a pitch de venta.
 :::
 
 ---
 
 ## 🗺️ Paso 1: Conoce tu producto
 
-No puedes recomendar lo que no dominas. Recap rápido de qué tenemos:
+No puedes recomendar lo que no dominas. Recap rápido de nuestras herramientas:
 
 ### 🚀 Para doctores que quieren MÁS PACIENTES
 
@@ -49,15 +45,15 @@ No puedes recomendar lo que no dominas. Recap rápido de qué tenemos:
 
 | **Producto** | **Qué hace** | **Gancho principal** |
 | :--- | :--- | :--- |
+| **Noa Notes** | IA que genera notas clínicas de la consulta | Ahorra hasta 30% del tiempo |
 | **Plan Plus** | Activa recordatorios por WhatsApp, Noa Booking, EHR, videoconsulta | Le quita carga administrativa real |
 | **Plan VIP** | Todo lo de Plus + pagos con comisión 1.99% + lista de espera | Pensado para alto volumen/multi-consultorio |
-| **Noa Booking** (incluido en Plus/VIP) | IA que contesta el teléfono 24/7 y agenda citas | Hasta +10% ingresos, -70% tiempo al teléfono |
-| **Noa Notes** | IA que genera notas clínicas de la consulta | Ahorra hasta 30% del tiempo |
-| **Pagos Doctoralia** (menos comisión con VIP) | Cobros en línea + pago a meses para pacientes | Protege ingresos, reduce no-shows |
+| **Noa Booking** (incluido en Plus/VIP) | IA que contesta llamadas 24/7 y agenda citas | Hasta +10% ingresos, -70% tiempo al teléfono |
+| **Pagos Doctoralia** (menos comisión con **VIP**) | Cobros en línea + pago a meses para pacientes | Protege ingresos, reduce no-shows |
 
 
-:::{tip} Tip
-Noa Notes tiene un precio de $199.00 desde el primer mes. 
+:::{tip} ¡Ojo aquí!
+Noa Notes tiene un **precio especial** de $199.00 desde el primer mes. 
 :::
 
 ---

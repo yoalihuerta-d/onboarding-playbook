@@ -53,31 +53,20 @@ El doctor debe colgar sintiéndose **acompañado, no abandonado**. Un buen cierr
 
 ⏱ ~3 min
 
-**Objetivo:** Definir con claridad si el onboarding se cierra o requiere una sesión adicional. La decisión se toma con datos (ONB score), no con sensación.
+**Objetivo:** Definir con claridad si el onboarding se cierra o requiere una sesión adicional.
 
-:::{attention} Regla de oro
-Un onboarding incompleto es peor que un onboarding de tres sesiones. Si necesita más tiempo, tómalo.
-:::
 
-### 🧮 Decisión basada en ONB score
+### 🚩 Señales para agendar Sesión 3
 
-**Guíate por el puntaje, no por la letra.**
+* **Features clave sin configurar** → No se logró cubrir el listado de features señalados en el Playbook.
 
-| **Escenario** | **Puntaje** | **Acción** |
-| :--- | :--- | :--- |
-| Perfil con base suficiente | **≥ 120 pts** | Cerrar onboarding  |
-| Perfil aún no óptimo | **< 120 pts** | Agendar sesión adicional  |
+* Se avanzó poco por un tema técnico.
 
-### 🚩 Señales adicionales para agendar Sesión 3
+* Ritmo lento y muchas preguntas.
 
-Independiente del score, agenda sesión extra si detectas:
+* El doctor lo pide explícitamente.
 
-| **Señal** | **Qué hacer** |
-| :--- | :--- |
-| Se avanzó poco por un tema técnico | Agenda una sesión enfocada solo en lo que faltó. |
-| Ritmo lento / muchas preguntas | Agenda una sesión más corta para cerrar pendientes. |
-| Features clave sin configurar | No dejes al doctor con un onboarding incompleto. |
-| El doctor lo pide explícitamente | Si siente que necesita más acompañamiento, dáselo. |
+* El perfil alcanzó un ONB score menor a 120 pts. 
 
 
 
@@ -89,7 +78,7 @@ Independiente del score, agenda sesión extra si detectas:
 
 **Tips:**
 
-- Sé específico sobre **qué** se verá en la siguiente sesión. No digas "repasamos lo que falta".
+- Sé específico sobre **qué** se verá en la siguiente sesión.
 - Agenda la tercera sesión en vivo. 
 
 

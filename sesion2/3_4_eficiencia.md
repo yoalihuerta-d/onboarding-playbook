@@ -29,27 +29,9 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 
 ---
 
-#### Prioridad alta
+# Prioridad alta
 
-### 📍 Direcciones
-
-| Situación | Qué hacer |
-| --- | --- |
-| No tiene dirección cargada o está incompleta | Agrega la dirección completa con referencias en vivo. |
-| Ya la tiene | Valida que sea correcta, que el pin del mapa esté bien ubicado y que tenga referencias claras. |
-
-**Script sugerido:**
-
-> Si un paciente agenda pero no encuentra su consultorio, llega tarde, estresado o de plano no llega. Vamos a asegurarnos de que la dirección esté completa, con referencias claras y que el mapa apunte exactamente a donde es.
-
-**Tips:**
-
-- Verifica que el pin del mapa esté en la ubicación correcta (no solo la dirección escrita).
-- Agrega referencias: piso, número de consultorio, entre qué calles, estacionamiento cercano.
-
-✅ Dirección(es) completa(s) con referencias y mapa verificado.
-
----
+#### Gestión de pacientes 
 
 ### 💰 Presupuestos
 
@@ -85,6 +67,7 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 ✅ Prueba de receta realizada.
 
 ---
+#### Mensajes 
 
 ### 💬 Chat con pacientes
 
@@ -115,6 +98,7 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 ✅ Al menos una campaña creada o planificada.
 
 ---
+#### Pagos en línea
 
 ### 💳 DP Payment
 
@@ -150,6 +134,8 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 ✅ Doctor sabe dónde ver sus métricas y qué significan.
 
 ---
+
+#### Perfil
 
 ### 📸 Foto de perfil
 
@@ -196,22 +182,7 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 
 ---
 
-#### Prioridad media
-
-### 📅 Agenda encendida
-
-| Situación | Qué hacer |
-| --- | --- |
-| Agenda apagada o no configurada | Activa la agenda en vivo y configura disponibilidad básica. |
-| Ya encendida | Valida que los horarios reflejen su disponibilidad real y que esté recibiendo citas. |
-
-**Script sugerido:**
-
-> Doctor, si su agenda está apagada, un paciente que lo encuentra a las 10 de la noche no puede agendar. Y a las 10 de la noche no va a llamar a su consultorio. Va a buscar otro doctor que sí le permita reservar en ese momento. Con la agenda encendida, usted recibe citas 24/7 sin hacer nada. Usted sigue decidiendo qué horarios están disponibles. La agenda solo permite que el paciente reserve en los espacios que usted definió.
-
-✅ Agenda encendida y visible para pacientes.
-
----
+# Prioridad media
 
 ### 🕐 Horarios
 
@@ -228,7 +199,23 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 
 ---
 
-#### Prioridad baja
+### 📅 Agenda encendida
+
+| Situación | Qué hacer |
+| --- | --- |
+| Agenda apagada o no configurada | Activa la agenda en vivo y configura disponibilidad básica. |
+| Ya encendida | Valida que los horarios reflejen su disponibilidad real y que esté recibiendo citas. |
+
+**Script sugerido:**
+
+> Doctor, si su agenda está apagada, un paciente que lo encuentra a las 10 de la noche no puede agendar. Y a las 10 de la noche no va a llamar a su consultorio. Va a buscar otro doctor que sí le permita reservar en ese momento. Con la agenda encendida, usted recibe citas 24/7 sin hacer nada. Usted sigue decidiendo qué horarios están disponibles. La agenda solo permite que el paciente reserve en los espacios que usted definió.
+
+✅ Agenda encendida y visible para pacientes.
+
+
+---
+
+# Prioridad baja
 
 ### 📝 Sobre mí
 

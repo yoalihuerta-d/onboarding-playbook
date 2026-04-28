@@ -88,6 +88,74 @@ Si tú no lo presentas como algo valioso, el doctor tampoco lo verá así.
 
 ---
 
+#### Direcciones y agendas
+
+### 📍 Direcciones / Consulta en línea
+
+| Situación | Qué hacer |
+|----------|----------|
+| No tiene / incompleta | Configura dirección exacta o habilita consulta en línea. |
+| Ya tiene |Confirma que la dirección esté correctamente configurada y visible en el mapa. |
+
+> Si la dirección está mal, el paciente se pierde camino al consultorio y no regresa. Vamos a verificar que todo esté bien puesto.
+
+✅ Ubicación validada o consulta en línea activa.
+
+---
+
+### 🕐 Horarios
+
+| Situación | Qué hacer |
+|----------|----------|
+| Vacíos / incompletos | Configura mínimo 10 días con al menos 16 hrs/semana. |
+| Ya configurados | Valida disponibilidad real y que cumpla el mínimo. |
+
+> Más horarios visibles = más probabilidad de que alguien encuentre un hueco que le funcione. Si solo tiene 3 horas a la semana, muy pocos pacientes van a coincidir.
+
+✅ Mínimo 16 hrs/semana configuradas.
+
+---
+
+### 📅 Agenda activa
+
+| Situación | Qué hacer |
+|----------|----------|
+| No está activa | Actívala en la sesión. No cierres la llamada con la agenda apagada. |
+| Ya está activa | Refuerza: sin agenda activa = cero pacientes nuevos. |
+
+> Si la agenda está apagada, es como tener el consultorio cerrado con llave. Nadie puede entrar aunque quiera. Vamos a dejarla abierta 24/7.
+
+✅ Botón "Agendar cita" visible y habilitado.
+
+---
+
+### ⭐ Opiniones
+
+| Situación | Qué hacer |
+|----------|----------|
+| No tiene / no activa | Activa solicitud de opiniones automática. Comparte el link de solicitud de opiniones con el doctor.  |
+| Ya tiene activas | Comparte el link de solicitud de opiniones con el doctor.  |
+
+> Las opiniones son el boca a boca digital. Un paciente que ve 20 opiniones positivas agenda sin pensarlo. Vamos a activar que se pidan solas después de cada consulta.
+
+✅ Solicitud automática activa.
+
+---
+### 🏥 Aseguradoras
+
+| Situación | Qué hacer |
+|----------|----------|
+| No tiene aseguradoras cargadas | Pregunta qué aseguradoras acepta y agrégalas en vivo. |
+| Ya las tiene | Valida que la lista esté actualizada y completa. |
+
+> Muchos pacientes filtran su búsqueda por aseguradora. Si usted acepta GNP, Metlife o AXA pero no lo tiene en su perfil, ese paciente lo descarta sin siquiera verlo. Vamos a agregar todas las que acepte para que no pierda esas oportunidades.
+
+✅ Todas las aseguradoras aceptadas cargadas en el perfil.
+
+---
+
+#### Perfil 
+
 ### 📸 Foto de perfil
 
 | Situación | Qué hacer |
@@ -157,70 +225,7 @@ Fórmula rápida:
 
 ---
 
-### ⭐ Opiniones
-
-| Situación | Qué hacer |
-|----------|----------|
-| No tiene / no activa | Activa solicitud de opiniones automática. Comparte el link de solicitud de opiniones con el doctor.  |
-| Ya tiene activas | Comparte el link de solicitud de opiniones con el doctor.  |
-
-> Las opiniones son el boca a boca digital. Un paciente que ve 20 opiniones positivas agenda sin pensarlo. Vamos a activar que se pidan solas después de cada consulta.
-
-✅ Solicitud automática activa.
-
----
-
-### 📍 Direcciones / Consulta en línea
-
-| Situación | Qué hacer |
-|----------|----------|
-| No tiene / incompleta | Configura dirección exacta o habilita consulta en línea. |
-| Ya tiene |Confirma que la dirección esté correctamente configurada y visible en el mapa. |
-
-> Si la dirección está mal, el paciente se pierde camino al consultorio y no regresa. Vamos a verificar que todo esté bien puesto.
-
-✅ Ubicación validada o consulta en línea activa.
-
----
-
-### 🏥 Aseguradoras
-
-| Situación | Qué hacer |
-|----------|----------|
-| No tiene aseguradoras cargadas | Pregunta qué aseguradoras acepta y agrégalas en vivo. |
-| Ya las tiene | Valida que la lista esté actualizada y completa. |
-
-> Muchos pacientes filtran su búsqueda por aseguradora. Si usted acepta GNP, Metlife o AXA pero no lo tiene en su perfil, ese paciente lo descarta sin siquiera verlo. Vamos a agregar todas las que acepte para que no pierda esas oportunidades.
-
-✅ Todas las aseguradoras aceptadas cargadas en el perfil.
-
----
-
-### 📅 Agenda activa
-
-| Situación | Qué hacer |
-|----------|----------|
-| No está activa | Actívala en la sesión. No cierres la llamada con la agenda apagada. |
-| Ya está activa | Refuerza: sin agenda activa = cero pacientes nuevos. |
-
-> Si la agenda está apagada, es como tener el consultorio cerrado con llave. Nadie puede entrar aunque quiera. Vamos a dejarla abierta 24/7.
-
-✅ Botón "Agendar cita" visible y habilitado.
-
----
-
-### 🕐 Horarios
-
-| Situación | Qué hacer |
-|----------|----------|
-| Vacíos / incompletos | Configura mínimo 10 días con al menos 16 hrs/semana. |
-| Ya configurados | Valida disponibilidad real y que cumpla el mínimo. |
-
-> Más horarios visibles = más probabilidad de que alguien encuentre un hueco que le funcione. Si solo tiene 3 horas a la semana, muy pocos pacientes van a coincidir.
-
-✅ Mínimo 16 hrs/semana configuradas.
-
----
+#### Servicios 
 
 ### 💰 Servicios y precios
 
@@ -235,6 +240,8 @@ Fórmula rápida:
 
 ---
 
+#### Calendario 
+
 ### 🗓️ Admin Booking
 
 | Situación | Qué hacer |
@@ -247,6 +254,8 @@ Fórmula rápida:
 ✅ Al menos una cita de prueba agendada.
 
 ---
+#### Visibilidad externa 
+
 
 ### 🌐 Google Business Profile
 

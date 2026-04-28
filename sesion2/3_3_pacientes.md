@@ -79,7 +79,9 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 :::
 ---
 
-#### Prioridad alta
+# Prioridad alta
+
+#### Perfil
 
 ### 📸 Fotos y videos del perfil
 
@@ -100,6 +102,24 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 ✅ Al menos 2 fotos del consultorio/instalaciones subidas (o deadline acordado).
 
 ---
+### 🏅 Insignia de confianza / Material promocional
+
+| Situación | Qué hacer |
+| --- | --- |
+| Accionamiento | Explica cómo se obtiene y muestra el impacto visual en el perfil vs. perfiles sin insignia. |
+
+**Script sugerido:**
+
+> Doctor, esta insignia aparece en su perfil cuando sus pacientes agendan citas recurrentes a través de Doctoralia. Es un sello de calidad que le dice al paciente nuevo: 'Este doctor es tan bueno que sus pacientes regresan.' Los perfiles con insignia se diferencian inmediatamente de la competencia.
+
+**Tips:**
+- Muestra un ejemplo real de perfil con insignia vs. sin insignia.
+- Menciona el material promocional para incentivar que pida opiniones o agenden por la plataforma 📣.
+
+✅ Doctor entiende cómo se obtiene la insignia y qué la activa.
+
+---
+#### Movilidad 
 
 ### 📱 App de Doctoralia
 
@@ -119,6 +139,7 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 ✅ App instalada y con notificaciones activas.
 
 ---
+#### Pacientes
 
 ### 👥 Importar pacientes
 
@@ -157,7 +178,7 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 
 ---
 
-### 🤖 Noa Notes
+### 🤖 Noa Notes (Costo adicional)
 
 | Situación | Qué hacer |
 | --- | --- |
@@ -170,6 +191,7 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 ✅ Demo realizada.
 
 ---
+#### Gestión de pagos 
 
 ### 💳 DP Payment
 
@@ -189,6 +211,7 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 ✅ Activación iniciada o completada.
 
 ---
+#### Agendamiento IA y canales externos
 
 ### 💬 WhatsApp Business
 
@@ -206,23 +229,6 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 
 ✅ WhatsApp vinculado con respuestas automáticas activas.
 
----
-
-### 🏅 Insignia de confianza / Material promocional
-
-| Situación | Qué hacer |
-| --- | --- |
-| Accionamiento | Explica cómo se obtiene y muestra el impacto visual en el perfil vs. perfiles sin insignia. |
-
-**Script sugerido:**
-
-> Doctor, esta insignia aparece en su perfil cuando sus pacientes agendan citas recurrentes a través de Doctoralia. Es un sello de calidad que le dice al paciente nuevo: 'Este doctor es tan bueno que sus pacientes regresan.' Los perfiles con insignia se diferencian inmediatamente de la competencia.
-
-**Tips:**
-- Muestra un ejemplo real de perfil con insignia vs. sin insignia.
-- Menciona el material promocional para incentivar que pida opiniones o agenden por la plataforma 📣.
-
-✅ Doctor entiende cómo se obtiene la insignia y qué la activa.
 
 ---
 
@@ -240,7 +246,7 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 
 ---
 
-#### Prioridad media
+# Prioridad media
 
 ### 🔗 Redes sociales
 
@@ -297,7 +303,7 @@ Cada feature se presenta como un problema que le resuelve al doctor, no como una
 
 ---
 
-#### Prioridad baja
+# Prioridad baja
 
 ### ❓ Pregunta al experto
 

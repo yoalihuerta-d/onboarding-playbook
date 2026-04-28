@@ -70,6 +70,44 @@ Si tú no lo presentas como algo valioso, el doctor tampoco lo verá así.
 :::
 
 ---
+#### Direcciones y equipo 
+
+### 📍 Direcciones
+
+| Situación | Qué hacer |
+| --- | --- |
+| No tiene dirección cargada o está incompleta | Agrega la dirección completa con referencias en vivo. |
+| Ya la tiene | Valida que sea correcta, que el pin del mapa esté bien ubicado y que tenga referencias claras. |
+
+**Script sugerido:**
+
+> Si un paciente agenda pero no encuentra su consultorio, llega tarde, estresado o de plano no llega. Vamos a asegurarnos de que la dirección esté completa, con referencias claras y que el mapa apunte exactamente a donde es.
+
+**Tips:**
+
+- Verifica que el pin del mapa esté en la ubicación correcta (no solo la dirección escrita).
+- Agrega referencias: piso, número de consultorio, entre qué calles, estacionamiento cercano.
+
+✅ Dirección(es) completa(s) con referencias y mapa verificado.
+
+---
+
+### 💻 Consulta en línea
+
+| Situación | Qué hacer |
+|----------|----------|
+| No activada | Activa la videoconsulta en vivo y muestra cómo se ve el flujo completo (agendar → link → videollamada → chat). |
+| Ya activada | Valida que el doctor haya hecho al menos una y que entienda el flujo del paciente. |
+
+> Doctor, hay pacientes que no pueden ir a su consultorio: viven lejos, tienen movilidad limitada o simplemente prefieren una consulta rápida desde casa. Con la consulta en línea, usted atiende desde cualquier dispositivo, sin instalar nada. El paciente recibe el link por email, se conectan, y si necesita enviarle estudios o documentos, lo hace por el chat integrado. Todo queda guardado en el historial del paciente de forma segura.
+
+**¿Con qué especialidades priorizar esta feature?**
+Psicología, Psiquiatría, Nutrición, Endocrinología - Son consultas mayormente conversacionales, de seguimiento frecuente y no requieren exploración física.
+
+✅ Consulta en línea activada y doctor entiende el flujo completo.
+
+---
+
 ### 👩‍💼 Usuario de asistente
 
 | Situación | Qué hacer |
@@ -89,6 +127,8 @@ Si tú no lo presentas como algo valioso, el doctor tampoco lo verá así.
 
 ---
 
+#### Movilidad 
+
 ### 📱 App de Doctoralia
 
 | Situación | Qué hacer |
@@ -101,6 +141,8 @@ Si tú no lo presentas como algo valioso, el doctor tampoco lo verá así.
 ✅ App instalada, vinculada y funcional.
 
 ---
+#### Pacientes
+
 
 ### 📥 Importar pacientes
 
@@ -129,8 +171,34 @@ Si tú no lo presentas como algo valioso, el doctor tampoco lo verá así.
 
 ✅ Sabe crear citas manuales en la agenda.
 
+---
+
+### 📋 EHR (Plan PLUS y VIP)
+
+| Situación | Qué hacer |
+|----------|----------|
+| No lo usa | Crea un episodio clínico de prueba en vivo. |
+| Ya lo usa | Valida que sepa usarlo completo. |
+
+> Esto reemplaza las notas en papel. Todo queda guardado, seguro y organizado. Si un paciente regresa en 6 meses, usted abre su expediente y tiene todo ahí sin buscar en carpetas.
+
+✅ Al menos un episodio de prueba creado.
 
 ---
+
+### 🤖 Noa Notes (Costo adicional)
+
+| Situación | Qué hacer |
+|----------|----------|
+| Acción | Graba un audio corto de simulación para mostrar cómo la IA transcribe y estructura la nota médica automáticamente. |
+
+> Imagine esto: usted está con su paciente, platicando cara a cara, sin distraerse escribiendo. Al terminar, Noa ya tiene el resumen listo. Usted solo revisa y listo. Se acabó quedarse después de hora escribiendo notas.
+
+✅ Prueba de transcripción realizada.
+
+---
+
+#### Comunicaciones 
 
 ### 🔔 Recordatorios automáticos
 
@@ -170,48 +238,7 @@ Si tú no lo presentas como algo valioso, el doctor tampoco lo verá así.
 ✅ Solicitud automática activa.
 
 ---
-
-### 💻 Consulta en línea
-
-| Situación | Qué hacer |
-|----------|----------|
-| No activada | Activa la videoconsulta en vivo y muestra cómo se ve el flujo completo (agendar → link → videollamada → chat). |
-| Ya activada | Valida que el doctor haya hecho al menos una y que entienda el flujo del paciente. |
-
-> Doctor, hay pacientes que no pueden ir a su consultorio: viven lejos, tienen movilidad limitada o simplemente prefieren una consulta rápida desde casa. Con la consulta en línea, usted atiende desde cualquier dispositivo, sin instalar nada. El paciente recibe el link por email, se conectan, y si necesita enviarle estudios o documentos, lo hace por el chat integrado. Todo queda guardado en el historial del paciente de forma segura.
-
-**¿Con qué especialidades priorizar esta feature?**
-Psicología, Psiquiatría, Nutrición, Endocrinología - Son consultas mayormente conversacionales, de seguimiento frecuente y no requieren exploración física.
-
-✅ Consulta en línea activada y doctor entiende el flujo completo.
-
-
----
-
-### 📋 EHR (Plan PLUS y VIP)
-
-| Situación | Qué hacer |
-|----------|----------|
-| No lo usa | Crea un episodio clínico de prueba en vivo. |
-| Ya lo usa | Valida que sepa usarlo completo. |
-
-> Esto reemplaza las notas en papel. Todo queda guardado, seguro y organizado. Si un paciente regresa en 6 meses, usted abre su expediente y tiene todo ahí sin buscar en carpetas.
-
-✅ Al menos un episodio de prueba creado.
-
----
-
-### 🤖 Noa Notes
-
-| Situación | Qué hacer |
-|----------|----------|
-| Acción | Graba un audio corto de simulación para mostrar cómo la IA transcribe y estructura la nota médica automáticamente. |
-
-> Imagine esto: usted está con su paciente, platicando cara a cara, sin distraerse escribiendo. Al terminar, Noa ya tiene el resumen listo. Usted solo revisa y listo. Se acabó quedarse después de hora escribiendo notas.
-
-✅ Prueba de transcripción realizada.
-
----
+#### Agendamiento IA y canales externos
 
 ### 📞 Noa Booking (Plan Plus y VIP)
 

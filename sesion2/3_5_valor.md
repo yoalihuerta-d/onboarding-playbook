@@ -57,7 +57,7 @@ No puedes recomendar lo que no dominas. Recap rápido de qué tenemos:
 
 
 :::{tip} Tip
-Todos los doctores tienen 2 meses free trial de Noa Notes. Es el regalo más subutilizado del onboarding. Siempre recuérdaselo.
+Noa Notes tiene un precio de $199.00 desde el primer mes. 
 :::
 
 ---

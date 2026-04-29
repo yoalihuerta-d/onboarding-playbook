@@ -43,15 +43,17 @@ Título de nota en Salesforce: Prework ONB1
 ```
 
 
-```{dropdown} 📝 Nota SF Resumen ONB 1 *(sugerencia)*
+```{dropdown} 📝 Nota SF Resumen ONB 1
 
 Título de nota en Salesforce: Resumen ONB 1 
 
-1. **Breve descripción: Colocar insights sobre el especialista e interacción.**
+1. **Objetivo del especialista (ruta).**
 
-2. **Puntos vistos en asesoría:**
+2. **Breve descripción: Colocar insights sobre el especialista e interacción.**
 
-3. **Puntos pendientes:**
+3. **Puntos vistos en asesoría:**
+
+4. **Puntos pendientes:**
 
 ```
 

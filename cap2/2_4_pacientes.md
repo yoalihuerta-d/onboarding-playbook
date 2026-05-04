@@ -280,3 +280,141 @@ Hay muchas más herramientas que puedes usar para **complementar la sesión y ge
 👉 Usa lo que viste en el prework y en la conversación para decidir qué mostrar después.
 
 :::
+
+
+## Diagramas de flujo 
+
+### Perfil 
+
+```{mermaid}
+flowchart TD
+  A([📸 Foto de perfil]) --> A1{¿Tiene foto profesional?}
+  A1 -- No --> A2[Súbela en vivo<br/>o define deadline]
+  A1 -- Sí --> A3[Valida calidad y encuadre]
+  A2 & A3 --> AX(✅ Foto lista)
+
+  AX --> B([✍️ Sobre mí])
+  B --> B1{¿Tiene descripción?}
+  B1 -- No --> B2[Redacta en vivo:<br/>quién soy · especialidad · diferencial]
+  B1 -- Sí --> B3[Valida tono claro y cercano]
+  B2 & B3 --> BX(✅ Descripción publicada)
+
+  BX --> C([🔍 Especialidades])
+  C --> C1{¿Están completas?}
+  C1 -- No --> C2[Agrega todas las que ejerce]
+  C1 -- Sí --> C3[Valida coherencia con servicios]
+  C2 & C3 --> CX(✅ Especialidades listas)
+
+  CX --> D([🩺 Enfermedades que trata])
+  D --> D1{¿Tiene 5+?}
+  D1 -- No --> D2[Configura mínimo 5 frecuentes]
+  D1 -- Sí --> D3[Explica impacto en búsquedas]
+  D2 & D3 --> DX(✅ Padecimientos configurados)
+
+  DX --> E([🎓 Experiencia])
+  E --> E1{¿Tiene 2+ elementos?}
+  E1 -- No --> E2[Carga años, instituciones,<br/>certificaciones]
+  E1 -- Sí --> E3[Valida hitos recientes]
+  E2 & E3 --> EX(✅ Experiencia completa)
+
+  %% Estilos
+  classDef topic    fill:#00a085,stroke:#007a65,color:#ffffff,font-weight:500
+  classDef decision fill:#f4e0c1,stroke:#d4a96a,color:#5a3e1b
+  classDef action   fill:#f7f2ed,stroke:#c8bfb5,color:#2a2a28
+  classDef check    fill:#bcd2cf,stroke:#7aa8a4,color:#1e3e3b,font-weight:500
+
+  %% Clases
+  class A,B,C,D,E topic
+  class A1,B1,C1,D1,E1 decision
+  class A2,A3,B2,B3,C2,C3,D2,D3,E2,E3 action
+  class AX,BX,CX,DX,EX check
+```
+
+---
+### Agenda 
+
+```{mermaid}
+flowchart TD
+  A([📍 Dirección / Consulta online]) --> A1{¿Está configurada?}
+  A1 -- No --> A2[Configura dirección o activa online]
+  A1 -- Sí --> A3[Valida visibilidad]
+  A2 & A3 --> AX(✅ Ubicación lista)
+
+  AX --> B([📅 Agenda activa])
+  B --> B1{¿Está activa?}
+  B1 -- No --> B2[Actívala en sesión]
+  B1 -- Sí --> B3[Refuerza valor]
+  B2 & B3 --> BX(✅ Agenda visible)
+
+  BX --> C([🕐 Horarios])
+  C --> C1{¿Tiene 16h/sem?}
+  C1 -- No --> C2[Configura mínimo 16h]
+  C1 -- Sí --> C3[Valida disponibilidad real]
+  C2 & C3 --> CX(✅ Horarios listos)
+
+  CX --> D([⭐ Opiniones])
+  D --> D1{¿Solicitud automática activa?}
+  D1 -- No --> D2[Actívala y comparte link]
+  D1 -- Sí --> D3[Refuerza uso del link]
+  D2 & D3 --> DX(✅ Opiniones en marcha)
+
+  DX --> E([🏥 Aseguradoras])
+  E --> E1{¿Están cargadas?}
+  E1 -- No --> E2[Agrega en vivo]
+  E1 -- Sí --> E3[Valida cobertura]
+  E2 & E3 --> EX(✅ Aseguradoras listas)
+
+  EX --> F([💰 Servicios y precios])
+  F --> F1{¿Tiene 3+ servicios?}
+  F1 -- No --> F2[Configura nombre · precio · duración]
+  F1 -- Sí --> F3[Valida visibilidad]
+  F2 & F3 --> FX(✅ Servicios listos)
+
+  FX --> G([🗓️ Admin Booking])
+  G --> G1{¿Lo ha usado?}
+  G1 -- No --> G2[Haz reserva de prueba]
+  G1 -- Sí --> G3[Valida flujo]
+  G2 & G3 --> GX(✅ Booking validado)
+
+  %% Estilos
+  classDef topic    fill:#00a085,stroke:#007a65,color:#ffffff,font-weight:500
+  classDef decision fill:#f4e0c1,stroke:#d4a96a,color:#5a3e1b
+  classDef action   fill:#f7f2ed,stroke:#c8bfb5,color:#2a2a28
+  classDef check    fill:#bcd2cf,stroke:#7aa8a4,color:#1e3e3b,font-weight:500
+
+  %% Clases
+  class A,B,C,D,E,F,G topic
+  class A1,B1,C1,D1,E1,F1,G1 decision
+  class A2,A3,B2,B3,C2,C3,D2,D3,E2,E3,F2,F3,G2,G3 action
+  class AX,BX,CX,DX,EX,FX,GX check
+  ```
+  ---
+  ### Visibilidad externa 
+
+```{mermaid}
+  flowchart TD
+  A([🌐 Google Business Profile]) --> A1{¿Está vinculado?}
+  A1 -- No --> A2[Inicia vinculación<br/>desde ficha]
+  A1 -- Sí --> A3[Valida botón Reservar cita]
+  A2 & A3 --> AX(✅ Canal activo o en proceso)
+
+  AX --> B{¿Botón visible?}
+  B -- No --> B1[Revisar integración<br/>y permisos]
+  B -- Sí --> B2[Confirmar flujo de reserva]
+  B1 & B2 --> BX(✅ Flujo validado)
+
+  BX --> Z([🏁 ¿Quedó tiempo?])
+  Z --> Z1[Revisa prework y conversación<br/>para decidir qué más mostrar]
+
+  %% Estilos
+  classDef topic    fill:#00a085,stroke:#007a65,color:#ffffff,font-weight:500
+  classDef decision fill:#f4e0c1,stroke:#d4a96a,color:#5a3e1b
+  classDef action   fill:#f7f2ed,stroke:#c8bfb5,color:#2a2a28
+  classDef check    fill:#bcd2cf,stroke:#7aa8a4,color:#1e3e3b,font-weight:500
+
+  %% Clases
+  class A,Z topic
+  class A1,B decision
+  class A2,A3,B1,B2,Z1 action
+  class AX,BX check
+  ```

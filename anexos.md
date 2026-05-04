@@ -81,3 +81,19 @@ Ha sido un gusto acompañarle en este proceso.
 ```
 
 
+```{dropdown} 📝 Nota SF Resumen ONB 2
+
+Título de nota en Salesforce: Resumen ONB 2
+
+1. **Objetivo del especialista (ruta).**
+
+2. **Breve descripción: Colocar insights sobre el especialista e interacción.**
+
+3. **Puntos vistos en asesoría:**
+
+4. **Puntos pendientes:**
+
+```
+
+
+

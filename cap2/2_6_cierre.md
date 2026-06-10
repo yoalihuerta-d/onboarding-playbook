@@ -70,13 +70,13 @@ Después, presenta la slide de Noa Notes y reproduce el video testimonial como u
 > Interesante, doctor. Le preguntaba porque en la próxima sesión vamos a activar dos de las herramientas que más impacto tienen en el día a día de un consultorio.
 >
 > De hecho, quiero darle un pequeño adelanto de una de ellas.
->
-> [Mostrar slide y reproducir video testimonial]
->
-> :::{figure} ../assets/noanotes.png :align: center
+
+ [Mostrar slide y reproducir video testimonial]
+
+ :::{figure} ../assets/noanotes.png :align: center
 
 :::
->
+
 > Esta herramienta se llama **Noa Notes** y está diseñada para que usted pueda enfocarse completamente en su paciente mientras la tecnología se encarga de capturar y estructurar la información relevante de la consulta.
 >
 > Nuestros usuarios nos cuentan que les ayuda a ahorrar tiempo en documentación, mantener sus notas organizadas y dedicar más atención a la conversación clínica en lugar de estar pensando en qué tienen que escribir.

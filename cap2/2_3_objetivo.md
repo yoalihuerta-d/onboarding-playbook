@@ -20,7 +20,7 @@ Si el doctor quiere todo a la vez, ayúdalo a priorizar: "¿Cuál es el problema
 
 **Tu apoyo visual durante la sesión 👇**
 
-:::{figure} ../assets/welcome.png
+:::{figure} ../assets/welcome1.png
 :align: center
 
 :::

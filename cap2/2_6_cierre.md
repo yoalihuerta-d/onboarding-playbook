@@ -73,7 +73,8 @@ Después, presenta la slide de Noa Notes y reproduce el video testimonial como u
 
  [Mostrar slide y reproducir video testimonial]
 
-:::{figure} ../assets/noanotes.png :align: center
+:::{figure} ../assets/noanotes.png 
+:align: center
 
 :::
 

@@ -14,7 +14,7 @@ Preséntate: nombre, rol y cómo lo vas a ayudar (no solo quién eres, sino qué
 
 **Tu apoyo visual durante la sesión 👇**
 
-:::{figure} ../assets/welcome.png
+:::{figure} ../assets/welcome1.png
 :align: center
 
 :::

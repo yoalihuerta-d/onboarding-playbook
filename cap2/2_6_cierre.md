@@ -35,33 +35,94 @@ Escucha su respuesta: si duda, es el momento de reforzar que para eso está la S
 > 
 > 1. Empiece a usar la agenda en Doctoralia: pase sus próximas citas para que todo quede en un solo lugar.
 > 2. Envíe la solicitud de opiniones con sus pacientes actuales: es lo que más rápido le va a subir la confianza de nuevos pacientes.
-> 3. [Tercer pendiente según el caso: completar perfil, subir foto, configurar horarios, etc.]
+> 3. Tercer pendiente según el caso: completar perfil, subir foto, configurar horarios, etc.
 
 
 
-## 3. Agenda la Sesión 2 🚀
+## 3. Descubrimiento + Teaser de Noa Notes 🤖
 
-**Qué hacer:** Agenda la Sesión 2 en vivo y usa el teaser como gancho para que el doctor llegue con expectativa y con su documentación lista. No reveles nombres de producto; véndelo como resultado.
+⏱ ~3-5 min
 
-> En la próxima sesión vamos a activar dos cosas que, sinceramente, son las que marcan la diferencia entre una consulta tradicional y una consulta del futuro:
-> 
-> * Una forma de cobrar en línea con comisiones bastante por debajo de lo que normalmente se maneja en el mercado. Muchos doctores se enteran tarde de esto y terminan pagando de más durante meses.
-> * Y herramientas de inteligencia artificial que le van a ahorrar literalmente horas de trabajo administrativo a la semana. 🤖 Lo que hoy le toma 20 minutos documentar, lo va a resolver en 2.
-> ¿Qué día de la próxima semana lo agendamos?
+### Objetivo
 
+Entender cómo documenta actualmente sus consultas, identificar oportunidades de mejora y generar expectativa sobre Noa Notes y DP Payments para maximizar la asistencia y preparación para la Sesión 2.
 
+### Qué hacer
+
+Haz dos preguntas de descubrimiento obligatorias para entender el flujo actual del doctor. Escucha activamente y profundiza si detectas fricción, tiempo invertido o procesos manuales.
+
+Después, presenta la slide de Noa Notes y reproduce el video testimonial como un adelanto de lo que verá en la próxima sesión.
+
+### Preguntas de descubrimiento
+
+> Doctor, para entender mejor cómo funciona hoy su consulta y seguirnos adaptando a ella, me gustaría saber dos cosas.
+>
+> Primero, en cuanto a la parte de notas y documentación:
+>
+> **¿Cómo suele ser el proceso desde que entra el paciente hasta que toda la información queda registrada y cerrada?**
+>
+> Y por otro lado, cuando llega el momento de cobrar:
+>
+> **¿Cómo suele manejar los pagos de sus pacientes?**
+
+### Teaser (mostrar slide + video)
+
+> Interesante, doctor. Le preguntaba porque en la próxima sesión vamos a activar dos de las herramientas que más impacto tienen en el día a día de un consultorio.
+>
+> De hecho, quiero darle un pequeño adelanto de una de ellas.
+>
+> [Mostrar slide y reproducir video testimonial]
+>
+> :::{figure} ../assets/noanotes.png :align: center
+
+:::
+>
+> Esta herramienta se llama **Noa Notes** y está diseñada para que usted pueda enfocarse completamente en su paciente mientras la tecnología se encarga de capturar y estructurar la información relevante de la consulta.
+>
+> Nuestros usuarios nos cuentan que les ayuda a ahorrar tiempo en documentación, mantener sus notas organizadas y dedicar más atención a la conversación clínica en lugar de estar pensando en qué tienen que escribir.
+>
+> Además, es una solución segura, personalizable y creada específicamente para el contexto médico.
+>
+> Y eso es solo una parte de lo que veremos en la siguiente sesión.
+>
+> También vamos a activar una forma de cobrar en línea para que pagarle sea tan sencillo como agendar con usted, reduciendo fricciones para sus pacientes y con condiciones muy competitivas.
+>
+> No quiero adelantar demasiado porque ahí es donde realmente verá todo funcionando en vivo, pero le aseguro que es una de las sesiones que más valor genera para nuestros doctores.
+
+:::{tip} Tip
+Si el doctor menciona que dedica mucho tiempo a escribir notas, usa esa información para reforzar el valor de Noa Notes:
+
+> "Precisamente para situaciones como esa fue creada esta herramienta. Lo veremos a detalle en nuestra próxima sesión."
+:::
+
+## 4. Agenda la Sesión 2 🚀
+
+### Objetivo
+
+Asegurar que el doctor salga de la sesión con una fecha y hora confirmadas para activar las herramientas de mayor impacto en su operación diaria.
+
+### Qué hacer
+
+Agenda la sesión en vivo antes de finalizar la llamada. 
+
+> Doctor, para aprovechar todo lo que acabamos de ver y activar estas herramientas en su cuenta, me gustaría dejar desde ahora nuestra próxima sesión agendada.
+>
+> ¿Qué día y horario de la próxima semana le funciona mejor?
 
 :::{note} Requisitos DP Payments
 :class: dropdown
-Solicita al doctor que tenga listo los requisitos para activar DP Payments para aprovechar bien la sesión 2:
-* RFC
-* Identificación oficial (ambos lados)
-* Constancia de situación fiscal
-* Datos de su cuenta bancaria
+
+Solicita al doctor que tenga listos los siguientes documentos para aprovechar al máximo la Sesión 2:
+
+- RFC
+- Identificación oficial (ambos lados)
+- Constancia de situación fiscal
+- Datos de su cuenta bancaria
+
 :::
 
 
-## 4. CSAT + Kit de Bienvenida  📩
+## 5. CSAT + Kit de Bienvenida  📩
 
 **Objetivo:** Dejar al doctor con todos los recursos de autoservicio a la mano y capturar su feedback antes de que se enfríe la sesión.
 
